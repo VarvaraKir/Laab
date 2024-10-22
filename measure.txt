@@ -1,0 +1,2 @@
+period:  c
+step:  0.013
